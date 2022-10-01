@@ -1,0 +1,2 @@
+hey this is created by nodejs! 
+hey this is appended text by fs.appendFileSync!
